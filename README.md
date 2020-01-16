@@ -1,6 +1,8 @@
 # WebStorm vs. tsc typechecking
 
-The code in [index.js](index.js) is type checked.
+The code in [index.js](index.js) is type checked.  
+Note: in case it is important, this is NOT using `*.ts` files, but verifying type safety for `*.js` files.
+
 For some reason `tsc` does NOT report a type error, even though there is one in line 8.
 See the result of the typecheck below.
 
