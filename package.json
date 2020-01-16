@@ -4,7 +4,11 @@
   "description": "Show that WebStorm's typechecking is stricter than tsc",
   "main": "index.js",
   "scripts": {
+    "typecheck": "tsc"
   },
   "author": "Wolfram Kriesing <w@kriesing.de>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
