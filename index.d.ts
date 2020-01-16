@@ -1,0 +1,1 @@
+type ComplexObject = {stringProp: string, numberProp: number};
