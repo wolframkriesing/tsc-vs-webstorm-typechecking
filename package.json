@@ -1,0 +1,10 @@
+{
+  "name": "tsc-vs-webstorm-typechecking",
+  "version": "1.0.0",
+  "description": "Show that WebStorm's typechecking is stricter than tsc",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Wolfram Kriesing <w@kriesing.de>",
+  "license": "MIT"
+}
